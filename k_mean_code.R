@@ -1,7 +1,6 @@
 library(tidyverse)
 library(readxl)
 library(cluster)
-library(GGally)
 library(plotly)
 library(tidyr)
 
